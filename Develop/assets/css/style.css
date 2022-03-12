@@ -29,6 +29,11 @@ span {
     color: #d9dcd6;
 }
 
+header a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
